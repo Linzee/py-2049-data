@@ -1,0 +1,1 @@
+scrapy crawl Train -o delays.json -t jsonlines
